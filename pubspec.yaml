@@ -1,7 +1,7 @@
-name: fancy_container
+name: zuk_fancy_container
 description: A new Flutter package.
 version: 0.0.1
-homepage:
+homepage: https://github.com/zukonit14/fancy_container
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

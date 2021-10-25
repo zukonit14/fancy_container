@@ -1,4 +1,4 @@
-import 'package:fancy_container/src/utils/fancy_containers_typedef.dart';
+import 'package:zuk_fancy_container/src/utils/fancy_containers_typedef.dart';
 import 'package:flutter/material.dart';
 
 class FancyContainer extends StatefulWidget {
